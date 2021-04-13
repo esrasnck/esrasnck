@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/esrasnck?style=social)](https://github.com/esrasnck?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/esrasnck?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/esrasnck?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=esrasnck.visitor-badge)](https://GitHub.com/esrasnck/StrapDown.js/stargazers/)
 
 
