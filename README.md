@@ -51,7 +51,7 @@ Contact with me via these platforms!
   </a>
   </a>
     <a href="https://github.com/esrasnck/FinalProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=esrasnck&repo=AngularNortwind&show_icons=true&theme=tokyonight"</img>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=esrasnck&repo=AngularNortwind&show_icons=true&theme=light"</img>
   </a>
 </p>
 
