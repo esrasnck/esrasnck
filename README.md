@@ -49,7 +49,10 @@ Contact with me via these platforms!
     <a href="https://github.com/esrasnck/FinalProject">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=esrasnck&repo=FinalProject&show_icons=true&theme=tokyonight"</img>
   </a>
-
+  </a>
+    <a href="https://github.com/esrasnck/FinalProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=esrasnck&repo=AngularNortwind&show_icons=true&theme=tokyonight"</img>
+  </a>
 </p>
 
 
