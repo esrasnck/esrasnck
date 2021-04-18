@@ -39,19 +39,6 @@ Contact with me via these platforms!
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrasnck&hide=python&layout=compact&show_icons=true&theme=light">
   </p>
-    <a href="https://github.com/esrasnck/ReCapCarRental">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=esrasnck&repo=ReCapCarRental&show_icons=true&theme=light"</img>
-  </a>
-  <a href="https://github.com/esrasnck/carRentalFrontendv2">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=esrasnck&repo=carRentalFrontendv2&show_icons=true&theme=light"</img>
-  </a>
-    <a href="https://github.com/esrasnck/FinalProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=esrasnck&repo=FinalProject&show_icons=true&theme=light"</img>
-  </a>
-  </a>
-    <a href="https://github.com/esrasnck/FinalProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=esrasnck&repo=AngularNortwind&show_icons=true&theme=light"</img>
-  </a>
 
 </p>
 
