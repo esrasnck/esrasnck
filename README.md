@@ -34,10 +34,10 @@ Contact with me via these platforms!
 
 <p align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=esrasnck&count_private=true&show_icons=true&theme=light"></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=esrasnck&count_private=true&show_icons=true&theme=light">
 </p>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrasnck&hide=python&layout=compact&show_icons=true&theme=light"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrasnck&hide=python&layout=compact&show_icons=true&theme=light">
   </p>
 
 </p>
