@@ -30,12 +30,7 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=esrasnck&count_private=true&show_icons=true&theme=light">
-</p>
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrasnck&hide=python&layout=compact&show_icons=true&theme=light">
   </p>
