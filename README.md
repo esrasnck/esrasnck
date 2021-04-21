@@ -16,8 +16,6 @@ You could contact me using those links.*
 
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white%22%3E"></img>
-<img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white%22%3E"></img>
 <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white"></img>
