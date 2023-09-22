@@ -4,7 +4,7 @@
 
 
 # Hi 👋
-I'm Esra!
+I'm Esra! Working as a Business Analyst at SmartMessage
 
 You could contact me using those links.*
 
